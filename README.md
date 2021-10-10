@@ -26,14 +26,18 @@
 <p><a href="https://www.buymeacoffee.com/Buy me a coffee MoveFL"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="25" width="105" alt="Buy me a coffee MoveFL" /></a></p><br><br>
 
 <h2 align="left">💰Stats Garbage:</h2>
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=movefl&show_icons=true&locale=en&layout=compact" alt="movefl" /></p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=movefl&show_icons=true&theme=dark" alt="movefl" /></p>
 
 
 
-<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=movefl&show_icons=true&locale=en" alt="movefl" /></p>
+<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=movefl&show_icons=true&theme=dark" alt="movefl" /></p>
 
 
 
 <h2 align="left">🏆Trophies:</h2>
-<p><img align="left" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=3&column=4" alt="movefl" /></p>
+<p><img align="left" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox" alt="movefl" /></p>
 
+
+
+
+<h2 align="left">Raste Ka Maal Saste Me :trollface:</h2>
