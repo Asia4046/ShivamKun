@@ -10,11 +10,10 @@
 - 🔭 I’m currently trying for **Google Dev participations**
 - 🌱 I’m currently learning **Python AI**
 - 👯 Weekly available on **Discord**
-- 🤝 I’m looking for help with **My Website Repository**
-- 👨‍💻 All of my projects are available at [Github.com](Github.com)
+- ❤️ Single but have crush on her
+- 🏫 Preparing For Boards
 - 📝 I write articles on [Hashnode.dev](Hashnode.dev) sometimes
 - 📫 How to reach me **shivammovefl@gmail.com**
-- 📄 Know about my certifications [Coming Soon](Coming Soon)
 - ⚡ Fun fact **Never touch my coffee**
 
 
