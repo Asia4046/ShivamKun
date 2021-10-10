@@ -24,6 +24,7 @@
 
 <h2 align="left">☕Buy Me A Coffee:</h2>
 <p><a href="https://www.buymeacoffee.com/Buy me a coffee MoveFL"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="25" width="105" alt="Buy me a coffee MoveFL" /></a></p><br><br>
+Someone Stole My Coffee. Huh! Lazy Slacker With Little Initiative...
 
 <h2 align="left">💰Stats Garbage:</h2>
 <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=movefl&show_icons=true&theme=dark" alt="movefl" /></p>
