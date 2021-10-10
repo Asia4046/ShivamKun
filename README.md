@@ -8,11 +8,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=movefl&label=Profile%20views&color=831be2&style=flat" alt="movefl" /> </p>
 
 - 🔭 I’m currently trying for **Google Dev participations**
-- 🌱 I’m currently learning **Python AI**
+- 🌱 Currently learning **Python AI**
 - 👯 Weekly available on **Discord**
 - ❤️ Single but have crush on her
 - 🏫 Preparing For Boards
-- 📝 I write articles on [Hashnode.dev](Hashnode.dev) sometimes
+- 📝 Currently I am reading **CoreJava**
 - 📫 How to reach me **shivammovefl@gmail.com**
 - ⚡ Fun fact **Never touch my coffee**
 
