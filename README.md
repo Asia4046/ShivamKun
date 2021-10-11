@@ -37,11 +37,14 @@ Someone Stole My Coffee. Huh! Lazy Slacker With Little Initiative...
 
 
 <h2 align="left">🏆Trophies:</h2>
+Moment Of Silence For Those Who Really Got Shocked:trollface:
 <p><img align="left" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox" alt="movefl" /></p>
 
 
 
+<p><img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="movefl" /></p>
 
-<h2 align="centre">Redemption</h2>
-Moment Of Silence For Those Who Really Got Shocked:trollface:
+<p><img align="bottomt" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="movefl" /></p>
+
+<p><img align="left" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="movefl" /></p>
 
