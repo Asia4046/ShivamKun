@@ -29,6 +29,8 @@ Someone Stole My Coffee. Huh! Lazy Slacker With Little Initiative...
 <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=movefl&show_icons=true&theme=dark" alt="movefl" /></p>
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MoveFl&theme=dark)](https://git.io/streak-stats)
+
 
 <p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=movefl&show_icons=true&theme=dark" alt="movefl" /></p>
 
