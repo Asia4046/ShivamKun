@@ -50,5 +50,5 @@ Moment Of Silence For Those Who Really Got Shocked:trollface:
 <p><img align="left" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="movefl" /></p>
 
 
-# Hoppscotch Supremacy
+
 
