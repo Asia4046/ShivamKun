@@ -15,7 +15,7 @@
 - 📝 Currently I am reading **CoreJava**
 - 📫 How to reach me **shivammovefl@gmail.com**
 - ⚡ Fun fact **Never touch my coffee**
-- 🔋 Partially Introvert, Need To Be Alone To Interact Again.
+- 🔋 I Code My Karma!
 
 
 
