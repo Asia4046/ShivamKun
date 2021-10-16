@@ -15,7 +15,7 @@
 - 📝 Currently I am reading **Karma Vol 87**
 - 📫 How to reach me **shivammovefl@gmail.com**
 - ⚡ Fun fact **Never touch my coffee**
-- 🔋 I Code My Karma!
+
 
 
 
