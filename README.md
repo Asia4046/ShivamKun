@@ -9,10 +9,10 @@
 
 - 🔭 I’m currently trying for **Google Dev participations**
 - 🌱 Currently learning **Python AI**
-- 👯 Weekly available on **Discord**
-- ❤️ Single but have crush on her
+- 👯 Always on **Discord**
+- ❤️ 5 Star
 - 🏫 Preparing For Boards
-- 📝 Currently I am reading **Karma Vol 88**
+- 📝 Currently I am reading **Redemption**
 - 📫 How to reach me **shivammovefl@gmail.com**
 - ⚡ Fun fact **Never touch my coffee**
 
