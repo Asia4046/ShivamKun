@@ -3,7 +3,6 @@
 <p><em>Web Developer<a href="https://codepen.io/trending"> FullStack </a><img src="https://cdn.discordapp.com/emojis/936816417284694047.gif?v=1&size=100" width="20"></br>Discord Bot Developer <a href="https://discord.com/developers/docs">Noob</a><img src="https://cdn.discordapp.com/emojis/936816496422846555.gif?v=1&size=40" width="15"> 
 </em></p>
 
-![Twitter: ShivamNotFound](https://img.shields.io/twitter/follow/ShivamNotFound?style=social)
 ![Reddit: ShivamNotFound](https://img.shields.io/reddit/user-karma/combined/ShivamNotFound?style=social)
 ![GitHub MoveFl](https://img.shields.io/github/followers/MoveFl?label=follow&style=social)
 
