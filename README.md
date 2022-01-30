@@ -23,6 +23,7 @@ const Shivam = {
                         artist: "TEAM RUINED"
                         designer: "TEAM RUINED"
                       },
+ currently developing: "a discord bot"                     
  challenge: "surviving boards"
 }
 ```
