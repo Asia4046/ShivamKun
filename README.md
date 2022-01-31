@@ -27,11 +27,26 @@ const Shivam = {
  challenge: "surviving boards"
 }
 ```
+<h2> Languages and Tools</h2>
+<a href= https://github.com/?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href= https://github.com/?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= https://github.com/?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
+<a href= https://github.com/?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
+<a href= https://github.com/?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
+<a href= https://github.com/?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
+<a href= https://github.com/?tab=repositories&q=&type=&language=firebase&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
+<a href= https://github.com/?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
+
+<h2> Connections </h2>
+<a href= https://ediscord.gg/gzbVE9VKrf=repositories&q=&type=&language=discord&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg'> </a>
+<a href= https://twitter.com/ShivamNotFound=repositories&q=&type=&language=twitter&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg'> </a>
+<a href= https://www.reddit.com/user/ShivamNotFound/=repositories&q=&type=&language=reddit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reddit.svg'> </a>
+<a href= https://github.com/?tab=repositories&q=&type=&language=spotify&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spotify.svg'> </a>
+<a href= https://github.com/?tab=repositories&q=&type=&language=youtube&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg'> </a>
+
 
 <img src="https://cdn.discordapp.com/emojis/936818939193864232.gif?v=1&size=100" width="50"> <em><b>Always on discord</b> ShivamNotFound#4693</em>
 
-## Lanuages ##
-<img src="https://user-images.githubusercontent.com/91766105/151646770-98fc9bc6-d597-48a8-aefd-3a5e650be6ea.png" width="55" height="57" /><img src="https://user-images.githubusercontent.com/91766105/151646774-20032c25-be74-421c-9b75-570c73bf2380.png" width="40" /> <img src="https://user-images.githubusercontent.com/91766105/151646776-d879f81c-7fbf-48b1-b085-3152de5d9ab3.png" width="40" /> <img src="https://user-images.githubusercontent.com/91766105/151646780-8ebbd409-9b32-4a7b-b802-2746142d28c1.png" width="40" /> <img src="https://user-images.githubusercontent.com/91766105/151646786-af88ae1d-e6c5-4183-9c5e-da43307b2545.png" width="40" />
-## Tools ##
-<img src="https://user-images.githubusercontent.com/91766105/151646842-ffa3c154-f838-41d5-8afc-d742c6f4de81.png" width="40" /> <img src="https://user-images.githubusercontent.com/91766105/151646856-acd17462-8c41-4ad4-9878-ca54694e3be5.png" width="40" /> <img src="https://user-images.githubusercontent.com/91766105/151646869-f001f565-adb9-45ce-9c0f-2b00332834e2.png" width="40" /> <img src="https://user-images.githubusercontent.com/91766105/151646870-7d79e228-6bf9-4d86-a42c-e1d2ae179873.png" width="40" /> <img src="https://user-images.githubusercontent.com/91766105/151646872-64589bfc-6c92-4b74-a3a0-b9fb3df8ad12.png" width="35" height="38" /> <img src="https://user-images.githubusercontent.com/91766105/151646878-710fbfb3-19bd-443f-98e9-13d0b3fc81f5.png" width="40" /> <img src="https://user-images.githubusercontent.com/91766105/151646881-5ca0e76d-4613-4cd3-8ef1-59a0427bc4da.png" width="40" /> <img src="https://user-images.githubusercontent.com/91766105/151646883-f3c3136c-3f4c-4ad3-a30d-0d1045a88780.png" width="40" />
 
