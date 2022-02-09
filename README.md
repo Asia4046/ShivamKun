@@ -40,11 +40,11 @@ const Shivam = {
 <a href= https://github.com/?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
 
 <h2> Connections </h2>
-<a href= https://discord.gg/gzbVE9VKrf=repositories&q=&type=&language=discord&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg'> </a>
+<a href=https://discord.gg/BEnmBrgzTF=repositories&q=&type=&language=discord&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg'> </a>
 <a href= https://twitter.com/ShivamNotFound=repositories&q=&type=&language=twitter&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg'> </a>
 <a href= https://www.reddit.com/user/ShivamNotFound/=repositories&q=&type=&language=reddit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reddit.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=spotify&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spotify.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=youtube&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg'> </a>
+<a href= https://open.spotify.com/user/316ouqotcgwx24kg7v4oacp43ula=repositories&q=&type=&language=spotify&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spotify.svg'> </a>
+<a href= https://www.youtube.com/channel/UCgHhlHFSqtKElS704DddLpg=repositories&q=&type=&language=youtube&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg'> </a>
 
 
 <img src="https://cdn.discordapp.com/emojis/936818939193864232.gif?v=1&size=100" width="50"> <em><b>Always on discord</b> ShivamNotFound#4693</em>
