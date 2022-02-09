@@ -13,14 +13,14 @@
 const Shivam = {
   pronouns: "he" | "him",
   code: [Python, Java, Javascript, CSS, HTML]
-  tools: [Nodejs, NPM, Git, Bootstrap],
+  tools: [Nodejs, Git, Bootstrap],
   architecture: ["microservices", "event-driven", "idle and lazy dev"],
   techCommunities: {
                         coorganizer: "TEAM RUINED",
                         speaker: "TEAM RUINED",
                         mentor: "TEAM RUINED"
                         backend: "TEAM RUINED"
-                        artist: "TEAM RUINED"
+                        artist: "SuhanDrawsStuff"
                         designer: "TEAM RUINED"
                       },
  currently developing: "a discord bot"                     
