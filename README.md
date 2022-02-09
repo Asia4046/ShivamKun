@@ -40,7 +40,7 @@ const Shivam = {
 <a href= https://github.com/?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
 
 <h2> Connections </h2>
-<a href= https://ediscord.gg/gzbVE9VKrf=repositories&q=&type=&language=discord&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg'> </a>
+<a href= https://discord.gg/gzbVE9VKrf=repositories&q=&type=&language=discord&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg'> </a>
 <a href= https://twitter.com/ShivamNotFound=repositories&q=&type=&language=twitter&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg'> </a>
 <a href= https://www.reddit.com/user/ShivamNotFound/=repositories&q=&type=&language=reddit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reddit.svg'> </a>
 <a href= https://github.com/?tab=repositories&q=&type=&language=spotify&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spotify.svg'> </a>
