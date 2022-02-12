@@ -47,6 +47,6 @@ const Shivam = {
 <a href= https://www.youtube.com/channel/UCgHhlHFSqtKElS704DddLpg=repositories&q=&type=&language=youtube&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg'> </a>
 
 
-<img src="https://cdn.discordapp.com/emojis/936818939193864232.gif?v=1&size=100" width="50"> <em><b>Always on discord</b> ShivamNotFound#4693</em>
+<img src="https://cdn.discordapp.com/emojis/936818939193864232.gif?v=1&size=100" width="50"> <em><b>Always simping on discord</b> ShivamNotFound#4693</em>
 
 
