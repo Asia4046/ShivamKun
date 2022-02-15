@@ -16,12 +16,11 @@ const Shivam = {
   tools: [Nodejs, Git, Bootstrap],
   architecture: ["microservices", "event-driven", "idle and lazy dev"],
   techCommunities: {
-                        coorganizer: "TEAM RUINED",
-                        speaker: "TEAM RUINED",
-                        mentor: "TEAM RUINED"
-                        backend: "TEAM RUINED"
+                        coorganizer: "FlareBit",
+                        dev: "MoveFl",
                         artist: "SuhanDrawsStuff"
-                        designer: "TEAM RUINED"
+                        backend: "Aman"
+                        pydev: "Joe"
                       },
  currently developing: "a discord bot"                     
  challenge: "surviving boards"
