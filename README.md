@@ -48,4 +48,4 @@ const Shivam = {
 
 <img src="https://cdn.discordapp.com/emojis/936818939193864232.gif?v=1&size=100" width="50"> <em><b>Always simping on discord</b> ShivamNotFound#4693</em>
 
-
+<iframe src="https://discord.com/widget?id=943834322115375135&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-ori
