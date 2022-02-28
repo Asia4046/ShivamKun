@@ -19,7 +19,7 @@ const Shivam = {
                         coorganizer: "FlareBit",
                         dev: "MoveFl",
                         artist: "SuhanDrawsStuff"
-                        backend: "Aman"
+                        backend: "XuKai"
                         pydev: "Joe"
                       },
  currently developing: "a discord bot"                     
