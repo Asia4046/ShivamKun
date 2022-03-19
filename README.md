@@ -22,7 +22,7 @@ const Shivam = {
                         backend: "XuKai"
                         pydev: "Joe"
                       },
- currently developing: "a discord bot"                     
+ currently developing: "discord bots"                     
  challenge: "surviving boards"
 }
 ```
