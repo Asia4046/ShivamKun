@@ -1,4 +1,4 @@
-<h2> Hi, I'm Shivam! <img src="https://cdn.discordapp.com/emojis/936816331213377609.gif?v=1&size=100" width="50"></h2>
+<h2> Hi, I'm Shivam! Dead For A While... <img src="https://cdn.discordapp.com/emojis/936816331213377609.gif?v=1&size=100" width="50"></h2>
 <img align='right' src="https://media.discordapp.net/attachments/936820146415239220/936932757177794620/ezgif.com-gif-maker_1.gif" width="230">
 <p><em>Web Developer<a href="https://codepen.io/trending"> FullStack </a><img src="https://cdn.discordapp.com/emojis/936816417284694047.gif?v=1&size=100" width="20"></br>Discord Bot Developer <a href="https://discord.com/developers/docs">Noob</a><img src="https://cdn.discordapp.com/emojis/936816496422846555.gif?v=1&size=40" width="15"> 
 </em></p>
