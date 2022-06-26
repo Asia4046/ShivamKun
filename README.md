@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there :wave:
 
-#### I'm a novice learner centered in India.
+#### I write scripts... sometimes :shipit:
 
 ##### NOW
 
