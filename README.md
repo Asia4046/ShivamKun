@@ -25,21 +25,15 @@
     <img src="https://img.icons8.com/ios-filled/256/808080/linkedin.svg" width="26px"/>
   </a>
   <br><br>
-  <strong>Check out my work below!</strong>
+  <strong>Things I do in boring afternoons:</strong>
   <br><br>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/puf17640/puf17640?style=flat-square&color=black&logo=github&a=0">
+    <img src="https://badges.pufler.dev/years/shivamkun?style=flat-square&color=black&logo=github&a=0">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/years/puf17640?style=flat-square&color=black&logo=github&a=0">
+    <img src="https://badges.pufler.dev/repos/shivamkun?style=flat-square&color=black&logo=github&a=0">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/repos/puf17640?style=flat-square&color=black&logo=github&a=0">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/gists/puf17640?style=flat-square&color=black&logo=github&a=0">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/commits/monthly/puf17640?style=flat-square&color=black&logo=github&a=0">
+    <img src="https://badges.pufler.dev/commits/monthly/shivamkun?style=flat-square&color=black&logo=github&a=0">
   </a>
 </p>
