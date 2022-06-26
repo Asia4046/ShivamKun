@@ -13,7 +13,7 @@
 - 🏢 I'm currently stodying at **DAV Public School**
 - ⚙️ I use daily: `.java`, `.python`, `.html`, `.css`, `.js`, `.ai`, `.sh`
 - 🌍 I'm mostly active on **Discord**
-- 💅 Designed: 
+- 💅 Designed: Nothing
 - 🌱 Learning all about **Algorithms**
 - 💬 Ping me about **webs**, **discord**, **games**, **development**, **ml**
 - 📫 Reach me: [reddit.com/shivamnotfound](https://twitter.com/shivamnotfound)
