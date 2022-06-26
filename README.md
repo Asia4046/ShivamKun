@@ -16,5 +16,5 @@
 - 💅 Designed: Nothing
 - 🌱 Learning all about **Algorithms**
 - 💬 Ping me about **webs**, **discord**, **games**, **development**, **ml**
-- 📫 Reach me: [reddit.com/shivamnotfound](https://twitter.com/shivamnotfound)
+- 📫 Reach me: [twitter.com/shivamnotfound](https://twitter.com/shivamnotfound)
 - ⚡️ Fun fact: I am not foni :)
