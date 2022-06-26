@@ -5,7 +5,7 @@
 ##### NOW
 
 - ✨ Crafted last [Portfolio](https://shivamkun.github.io) website
-- 🇵🇹 Planing to create **OtakuGully**
+- ☘️ Planing to create **OtakuGully**
 - 🍑 Incognito mode every friday
 
 ##### BIO
