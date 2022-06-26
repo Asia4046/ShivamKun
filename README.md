@@ -4,8 +4,8 @@
 
 ##### NOW
 
-- ✨ Crafted last [PMPharma](https://pmpharma.in) website;
-- 🇵🇹 Planing to create "OtakuGully";
+- ✨ Crafted last [PM Pharma](https://pmpharma.in) website
+- 🇵🇹 Planing to create **OtakuGully**
 - 🍑 Incognito mode every friday
 
 ##### BIO
