@@ -28,9 +28,6 @@
   <strong>Things I do in boring afternoon</strong>
   <br><br>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/years/shivamkun?style=flat-square&color=black&logo=github&a=0">
-  </a>
-  <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/repos/shivamkun?style=flat-square&color=black&logo=github&a=0">
   </a>
   <a href="https://badges.pufler.dev">
