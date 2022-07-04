@@ -25,7 +25,7 @@
     <img src="https://img.icons8.com/ios-filled/256/808080/linkedin.svg" width="26px"/>
   </a>
   <br><br>
-  <strong>Things I do in boring afternoon</strong>
+  <strong>Things I do while avoiding relatives</strong>
   <br><br>
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/repos/shivamkun?style=flat-square&color=black&logo=github&a=0">
