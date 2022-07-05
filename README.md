@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://dev.to/">
+  <a href="https://dev.to/shivamkun">
     <img src="https://svgur.com/i/TKs.svg" width="24px"/>
   </a>
   &emsp;
-  <a href= "https://instagram.com/>
+  <a href= "https://shivamkun.github.io/>
     <img src="https://img.icons8.com/ios-glyphs/256/808080/instagram-new.svg" width="28px"/>
   </a>
   &emsp;
