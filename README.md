@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/shivamkun" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=shivamkun&title_color=333&text_color=777" alt="Trash" >
+    <img src="https://github-readme-stats.vercel.app/api?username=shivamkun&title_color=000&bg_color=808080&text_color=000" alt="Trash" >
   </a>
 </p>
 
