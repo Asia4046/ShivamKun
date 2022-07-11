@@ -12,9 +12,8 @@
   <a href= "https://shivamkun.github.io/>
     <img src="https://img.icons8.com/ios-glyphs/256/808080/instagram-new.svg" width="28px"/>
   </a>
-  &emsp;
   <a href="https://buymeacoffee.com/">
-    <img src="https://img.icons8.com/ios-glyphs/256/808080/coffee.png" width="30px"/>
+    <img src="https://img.icons8.com/ios-glyphs/256/808080/coffee.png" width="28px"/>
   </a> 
   &emsp;
   <a href="https://shivamkun.github.io">
