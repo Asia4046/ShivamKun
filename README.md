@@ -26,10 +26,4 @@
   <br><br>
   <strong>Things I do while avoiding relatives</strong>
   <br><br>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/repos/shivamkun?style=flat-square&color=black&logo=github&a=0">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/commits/monthly/shivamkun?style=flat-square&color=black&logo=github&a=0">
-  </a>
 </p>
