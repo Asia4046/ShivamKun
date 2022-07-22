@@ -14,8 +14,6 @@
   </a>
   <a href="https://buymeacoffee.com/">
     <img src="https://img.icons8.com/ios-glyphs/256/808080/coffee.png" width="28px"/>
-  </a> <a href="https://github.com/shivamkun">
-    <img src="hm" width="24px"/>
   </a>
   &emsp;
   <a href="https://shivamkun.github.io">
@@ -27,5 +25,5 @@
   </a>
   <br><br>
   <strong>Things I do while avoiding relatives</strong>
-  <br><br>
+  <br><br><img src="mona-loading-dark.gif" width="40px"/>
 </p>
