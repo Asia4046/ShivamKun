@@ -29,7 +29,3 @@
   <a href="https://linkedin.com/in/">
     <img src="https://img.icons8.com/ios-filled/256/808080/linkedin.svg" width="26px"/>
   </a>
-  <br><br>
-  <strong>Things I do while avoiding relatives</strong>
-  <br><br><img src="mona-loading-dark.gif" width="40px"/>
-</p>
