@@ -1,12 +1,12 @@
-<img width="90" align="right" alt="Sakamoto" src="https://i.pinimg.com/originals/73/07/bb/7307bb95e0b3129b8868aad5a0e4918a.png">
+<img width="90" align="right" alt="Sakamoto" src="https://i.imgur.com/EoNDmMh.png">
 
 <img width="150" align="left" alt="Ohayo" src="https://fontmeme.com/permalink/220724/f0a359714d95cdf871c690def80a2cd5.png">
 
-<img width="150" align="left" alt="Ohayo" src="https://fontmeme.com/permalink/220724/1c50523009d05969a71670f18c8d27fa.png">
+<img width="150" align="left" alt="I'm ShivamKun" src="https://fontmeme.com/permalink/220724/1c50523009d05969a71670f18c8d27fa.png">
 
 <p align="center">
   <a href="https://github.com/shivamkun" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=shivamkun&title_color=fff&bg_color=808080&text_color=000" alt="Trash" >
+    <img src="https://github-readme-stats.vercel.app/api?username=shivamkun&title_color=000&bg_color=808080&text_color=000" alt="Trash" >
   </a>
 </p>
 
