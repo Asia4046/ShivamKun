@@ -1,3 +1,5 @@
+<img width="90" align="right" alt="Sakamoto" src="https://i.pinimg.com/originals/73/07/bb/7307bb95e0b3129b8868aad5a0e4918a.png">
+
 <p align="center">
   <a href="https://github.com/shivamkun" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=shivamkun&title_color=000&bg_color=808080&text_color=000" alt="Trash" >
