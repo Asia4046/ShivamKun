@@ -1,12 +1,8 @@
-<img width="90" align="right" alt="Sakamoto" src="https://i.imgur.com/EoNDmMh.png">
-
-<img width="150" align="left" alt="Ohayo" src="https://fontmeme.com/permalink/220724/f0a359714d95cdf871c690def80a2cd5.png">
-
-<img width="150" align="left" alt="I'm ShivamKun" src="https://fontmeme.com/permalink/220724/1c50523009d05969a71670f18c8d27fa.png">
-
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/91766105/180645402-28768e03-b486-4200-b59f-5cf50dfba3bb.png" width="550" alt="Cover" >
 <p align="center">
   <a href="https://github.com/shivamkun" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=shivamkun&title_color=000&bg_color=808080&text_color=000" alt="Trash" >
+    <img src="https://github-readme-stats.vercel.app/api?username=shivamkun&title_color=000&bg_color=5a5a5a&text_color=000&include_all_commits=true&show_icons=true&icon_color=000&count_private=true&hide_border=true&custom_title=Onii Chan&" alt="Trash" >
   </a>
 </p>
 
