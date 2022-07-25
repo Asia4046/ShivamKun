@@ -11,11 +11,16 @@
     <img src="https://svgur.com/i/TKs.svg" width="24px"/>
   </a>
   &emsp;
-  <a href= "https://shivamkun.github.io/>
-    <img src="https://img.icons8.com/ios-glyphs/256/808080/instagram-new.svg" width="28px"/>
+  <a href="https://reddit.com/">
+    <img src="https://img.icons8.com/ios-glyphs/256/808080/reddit.png" width="28px"/>
   </a>
+  &emsp;
+    <a href="https://myanimelist.com/">
+    <img src="https://img.icons8.com/ios-glyphs/256/808080/spotify.png" width="28px"/>
+  </a>
+  &emsp;
   <a href="https://buymeacoffee.com/">
-    <img src="https://img.icons8.com/ios-glyphs/256/808080/coffee--v2.png" width="28px"/>
+    <img src="https://img.icons8.com/ios-glyphs/256/808080/tea.png" width="28px"/>
   </a>
   &emsp;
   <a href="https://shivamkun.github.io">
@@ -23,5 +28,5 @@
   </a>
   &emsp;
   <a href="https://discord.com">
-    <img src="https://img.icons8.com/ios-filled/256/808080/discord--v1.svg" width="26px"/>
+    <img src="https://img.icons8.com/ios-filled/256/808080/discord--v1.svg" width="28px"/>
   </a>
