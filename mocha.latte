@@ -1,5 +1,4 @@
-//hmph
-# ugh
+//just to maintain the colour palette of my pinned repositories
 
 
 module main;
@@ -28,3 +27,34 @@ fn printLicense()
 		io.writefln(l);
 	}
 }
+// Operator Binding
+list = ArrayList()
+list + 1
+// same as list.add(1)
+list[0]
+// same as list.get(0)
+
+a = BigInteger("1")
+b = BigInteger("2")
+
+addRes = a + b
+// same as a.add(b)
+subRes = a - b
+// same as a.subtract(b)
+a << 1
+// same as a.shiftLeft(1)
+// Data Class
+data class User(id:int, name)
+/*
+a constructor with 0 params,
+getId(), getName(), setId(id), setName(name)
+toString():String, equals(o), hashCode():int
+will be automatically defined
+*/
+// Can be instantiated in this way
+User(id=1, name='cass')
+// `fun` Syntax
+fun empty(o)
+    return o.isEmpty
+
+['hello', 'world'].stream.filter(empty).count
