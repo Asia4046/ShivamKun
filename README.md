@@ -11,7 +11,7 @@
     <img src="https://svgur.com/i/TKs.svg" width="24px"/>
   </a>
   &emsp;
-  <a href="https://reddit.com/shivamnotfound">
+  <a href="https://reddit.com/u/shivamnotfound">
     <img src="https://img.icons8.com/ios-glyphs/256/808080/reddit.png" width="28px"/>
   </a>
   &emsp;
